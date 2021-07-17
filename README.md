@@ -1,4 +1,6 @@
 # blue-sky-services
+Blue Sky Consulting Services
+a Web Based Application
 Languages:
 - HTML
 - CSS
