@@ -1,0 +1,48 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+	font-family : 'Ubuntu', sans-serif; 
+	/* color: rgb(8 118 155); */
+    
+}
+
+
+.extra-jumbotorn {
+    background-image: url(../images/4.jpg);
+    background-size: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+.center-div{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 60%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+/* color: rgb(8 118 155); */
+
+.icons{
+	font: normal normal normal 100px/1 FontAwesome;
+}
+#happy{
+	height: 150px;
+	width: 150px;
+	border-radius: 100px;
+}
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+	background-color: #17a2b8!important;
+}
