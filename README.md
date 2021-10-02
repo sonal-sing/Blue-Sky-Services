@@ -1,5 +1,5 @@
 # blue-sky-services
-Blue Sky Consulting Services
+Blue Sky Services
 a Web Based Application
 
 
