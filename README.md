@@ -29,7 +29,6 @@ MODULES
     - Service Status
     - Change Password
     - Logout
-    - Admin Login
 
 - Admin Panel
     - Dashboard
